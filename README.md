@@ -1,5 +1,5 @@
 # Tableau
-Business Intelligence and Data Analytics using powerful visualization features of Tableau
+Business Intelligence, Data Analytics and Visualization using Tableau
 
 ### More @ 
 https://public.tableau.com/profile/kyra.michel#!/
